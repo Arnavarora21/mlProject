@@ -17,7 +17,7 @@ In this project, we'll predict the winner of football matches in the English Pre
 
 
 
-* google colab 
+* jupyter notebook
 * Python 3.8+
 * Python packages
     * pandas
