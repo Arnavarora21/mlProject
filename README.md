@@ -59,7 +59,7 @@ The project followed a structured pipeline to ensure reproducibility and reliabi
   - **Precision**
   - **Recall**
   - **Confusion Matrix**  
-- Achieved ~47% precision on unseen data, with strong performance in predicting home wins and reduced accuracy for draws.
+- Achieved ~62% precision on unseen data, with strong performance in predicting home wins and reduced accuracy for draws.
 
 ---
 
